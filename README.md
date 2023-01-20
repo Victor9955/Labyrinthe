@@ -8,9 +8,9 @@
 |  Commande: |   |   |   |   |
 |---|---|---|---|---|
 | Move: | `Z` :arrow_up: | `Q` :arrow_left: | `S` :arrow_down: | `D` :arrow_right: |
-| Look: | :computer_mouse: |  |  |  |
+| Look: | ` Mouse` :computer_mouse: |  |  |  |
 | Interact: | `Left Mouse Button` :computer_mouse: |  |  |  |
 
- Victor Lacombe A2 IIM -
+<p align="center"> Victor Lacombe A2 IIM </p>
 
 
