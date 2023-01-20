@@ -11,6 +11,6 @@
 | Look: | :computer_mouse: |  |  |  |
 | Interact: | `Left Mouse Button` :computer_mouse: |  |  |  |
 
-```diff
-- Victor Lacombe A2 IIM -
-```
+<style>H2{color:RED;}</style>
+## Victor Lacombe A2 IIM -
+
