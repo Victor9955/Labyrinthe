@@ -1,4 +1,7 @@
+
 # Projet Labyrinthe : Indiana Jones
+
+![](https://media.tenor.com/eqLNYv0A9TQAAAAC/swap-indiana-jones.gif)
 
 # Commande:
 
@@ -6,4 +9,4 @@ Move: ZQSD
 
 Interact: Mouse Left Click
 
-<span style="color:red">Victor Lacombe A2 IIM</span>.
+Victor Lacombe A2 IIM
