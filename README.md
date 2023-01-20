@@ -6,4 +6,4 @@ Move: ZQSD
 
 Interact: Mouse Left Click
 
-Victor Lacombe
+<span style="color:red">Victor Lacombe A2 IIM</span>.
