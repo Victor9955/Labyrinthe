@@ -7,7 +7,7 @@
 
 # Commande:
 
-Move: ZQSD
+Move: :z: :q: :s: :d:
 
 Interact: Mouse Left Click
 
