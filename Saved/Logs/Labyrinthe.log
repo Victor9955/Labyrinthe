@@ -7266,3 +7266,89 @@ Would you like to continue?
 [2023.01.20-16.03.41:574][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 37.0 sec)
 [2023.01.20-16.03.41:580][509]AssetCheck: New page: Asset Save: PC_CharacterController
 [2023.01.20-16.03.41:580][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Le_Labyrinthe/Blueprints/BP_Player/PC_CharacterController.PC_CharacterController
+[2023.01.20-16.42.19:203][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.20-16.42.19:209][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-16.42.19:210][723]PIE: New page: PIE session: LabyrintheMap (20 janv. 2023 à 18:42:19)
+[2023.01.20-16.42.19:210][723]LogPlayLevel: Creating play world package: /Game/Le_Labyrinthe/Maps/UEDPIE_0_LabyrintheMap
+[2023.01.20-16.42.19:214][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2023.01.20-16.42.19:214][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap to /Game/Le_Labyrinthe/Maps/UEDPIE_0_LabyrintheMap.LabyrintheMap (0.003747s)
+[2023.01.20-16.42.19:214][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.20-16.42.19:214][723]LogAIModule: Creating AISystem for world LabyrintheMap
+[2023.01.20-16.42.19:215][723]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2023.01.20-16.42.19:257][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.20-16.42.19:262][723]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.20-16.42.19:262][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-16.42.19:262][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-16.42.19:263][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-16.42.19:263][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-16.42.19:263][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-16.42.19:265][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.20-16.42.19:277][723]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (3- High Definition Audio Device)
+[2023.01.20-16.42.19:278][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-16.42.19:278][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-16.42.19:278][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-16.42.19:278][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.01.20-16.42.19:278][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.01.20-16.42.19:280][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.01.20-16.42.19:280][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.01.20-16.42.19:280][723]LogInit: FAudioDevice initialized.
+[2023.01.20-16.42.19:280][723]LogAudio: Display: Audio Device (ID: 42) registered with world 'LabyrintheMap'.
+[2023.01.20-16.42.19:283][723]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.20-16.42.19:284][723]LogWorld: Bringing World /Game/Le_Labyrinthe/Maps/UEDPIE_0_LabyrintheMap.LabyrintheMap up for play (max tick rate 60) at 2023.01.20-17.42.19
+[2023.01.20-16.42.19:284][723]LogWorld: Bringing up level for play took: 0.001637
+[2023.01.20-16.42.19:286][723]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.01.20-16.42.19:289][723]PIE: Server logged in
+[2023.01.20-16.42.19:289][723]PIE: Play in editor total start time 0,08 seconds.
+[2023.01.20-16.42.23:517][965]LogBlueprintUserMessages: [BP_ZonePassageSecret_C_3] Zone is Active !
+[2023.01.20-16.42.33:084][539]LogBlueprintUserMessages: [BP_Piège_C_1] Attention Indiana Jones !
+[2023.01.20-16.42.38:985][893]LogBlueprintUserMessages: [BP_PassageSecret_C_1] Door is Opened!
+[2023.01.20-16.42.38:985][893]LogBlueprintUserMessages: [BP_Torche_C_1] Torch is On!
+[2023.01.20-16.42.45:168][264]LogBlueprintUserMessages: [BP_Victoir_C_1]  Victoire ! Tu as trouvé le trésor !
+[2023.01.20-16.42.51:771][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-16.42.51:771][658]LogWorld: BeginTearingDown for /Game/Le_Labyrinthe/Maps/UEDPIE_0_LabyrintheMap
+[2023.01.20-16.42.51:771][658]LogWorld: UWorld::CleanupWorld for LabyrintheMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-16.42.51:771][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-16.42.51:800][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-16.42.51:805][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-16.42.51:842][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-16.42.51:843][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.01.20-16.42.51:844][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.01.20-16.42.51:847][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-16.42.51:850][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.01.20-16.42.51:910][659]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.01.20-16.42.52:498][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.20-16.42.52:594][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.20-16.42.52:606][692]LogSavePackage: Moving output files for package: /Game/Le_Labyrinthe/Maps/LabyrintheMap
+[2023.01.20-16.42.52:606][692]LogSavePackage: Moving '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Saved/LabyrintheMap8D2D5E274E7DE995577F9F9E4E4416B6.tmp' to '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap'
+[2023.01.20-16.42.52:616][692]LogFileHelpers: Saving map 'LabyrintheMap' took 0.061
+[2023.01.20-16.42.52:624][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 37.1 sec)
+[2023.01.20-16.42.52:630][692]AssetCheck: New page: Asset Save: LabyrintheMap
+[2023.01.20-16.42.52:630][692]LogContentValidation: Display: Validating /Script/Engine.World /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap
+[2023.01.20-16.42.57:955][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.20-16.42.58:045][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.01.20-16.42.58:057][ 10]LogSavePackage: Moving output files for package: /Game/Le_Labyrinthe/Maps/LabyrintheMap
+[2023.01.20-16.42.58:058][ 10]LogSavePackage: Moving '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Saved/LabyrintheMapB267015144184245769DE0B0A14C03A6.tmp' to '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap'
+[2023.01.20-16.42.58:066][ 10]LogFileHelpers: Saving map 'LabyrintheMap' took 0.060
+[2023.01.20-16.42.58:075][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 37.2 sec)
+[2023.01.20-16.42.58:081][ 10]AssetCheck: New page: Asset Save: LabyrintheMap
+[2023.01.20-16.42.58:081][ 10]LogContentValidation: Display: Validating /Script/Engine.World /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap
+[2023.01.20-16.43.31:583][950]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-16.43.31:584][950]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-16.43.31:584][950]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-16.43.57:310][487]LogSlate: Window 'Project Settings' being destroyed
+[2023.01.20-16.43.57:314][487]LogSlate: Window 'Project Settings' being destroyed
+[2023.01.20-16.44.19:058][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.20-16.44.19:142][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.20-16.44.19:155][185]LogSavePackage: Moving output files for package: /Game/Le_Labyrinthe/Maps/LabyrintheMap
+[2023.01.20-16.44.19:155][185]LogSavePackage: Moving '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Saved/LabyrintheMap1B6323014352E323CC64DC9D535D388C.tmp' to '../../../../../../Users/lolla/OneDrive/Bureau/Cours/Unreal/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap'
+[2023.01.20-16.44.19:164][185]LogFileHelpers: Saving map 'LabyrintheMap' took 0.061
+[2023.01.20-16.44.19:171][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 37.4 sec)
+[2023.01.20-16.44.19:177][185]AssetCheck: New page: Asset Save: LabyrintheMap
+[2023.01.20-16.44.19:177][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap
+[2023.01.20-16.44.22:814][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
