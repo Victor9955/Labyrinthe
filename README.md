@@ -7,7 +7,7 @@
 
 # Commande:
 
-Move: |:a: |:q: |:s: |:d:
+|Move: |'Z' :arrow_up: |'Q' :arrow_left: |'S' :arrow_down: |'D' :arrow_right:
 
 Interact: Mouse Left Click
 
