@@ -11,6 +11,4 @@
 | Look: | :computer_mouse: |  |  |  |
 | Interact: | `Left Mouse Button` :computer_mouse: |  |  |  |
 
-Interact: Mouse Left Click
-
 Victor Lacombe A2 IIM
