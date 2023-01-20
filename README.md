@@ -8,6 +8,8 @@
 |  Commande: |   |   |   |   |
 |---|---|---|---|---|
 | Move: | `Z` :arrow_up: | `Q` :arrow_left: | `S` :arrow_down: | `D` :arrow_right: |
+| Look: | :computer_mouse: |  |  |  |
+| Interact: | `Left Mouse Button` :computer_mouse: |  |  |  |
 
 Interact: Mouse Left Click
 
